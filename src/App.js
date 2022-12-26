@@ -54,11 +54,11 @@ const project = (
 			<Button disabledShadow />
 		</div>
 		<div className="col">
-			<h3>Button with Icon at the right</h3>
+			<h3>Button with Icon at the left</h3>
 			<Button startIcon="add_shopping_cart" />
 		</div>
 		<div className="col">
-			<h3>Button with Icon at the left</h3>
+			<h3>Button with Icon at the right</h3>
 			<Button endIcon="add_shopping_cart" />
 		</div>
 		<div className="col">
